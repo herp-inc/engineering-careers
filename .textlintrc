@@ -1,0 +1,13 @@
+{
+  "rules": {
+    "@textlint-rule/no-invalid-control-character": true,
+    "max-ten": {
+      "max": 3
+    },
+    "no-double-negative-ja": true,
+    "no-doubled-conjunction": true,
+    "no-dropping-the-ra": true,
+    "spellcheck-tech-word": true,
+    "no-mix-dearu-desumasu": true
+  }
+}

@@ -1,0 +1,27 @@
+name: Build
+
+on: push
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+
+      - name: Cache node_modules
+        uses: actions/cache@v2
+        env:
+          version: "20200909"
+        with:
+          path: ~/.cache/yarn
+          key: ${{ runner.os }}-cache-v${{ env.version }}-${{ hashFiles('yarn.lock') }}
+          restore-keys: |
+            ${{ runner.os }}-cache-v${{ env.version }}-
+            ${{ runner.os }}-cache-
+            ${{ runner.os }}-
+
+      - name: Install dependencies
+        run: yarn install --frozen-lockfile
+
+      - name: Lint
+        run: make lint

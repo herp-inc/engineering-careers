@@ -1,0 +1,26 @@
+# 技術スタック
+
+- Amazon Web Services
+- CircleCI
+- Cycle.js
+- Datadog
+- Docker
+- Figma
+- fp-ts
+- GitHub
+- Haskell
+- Istio
+- Koa.js
+- Kubernetes
+- MySQL
+- Nix
+- Node.js
+- Puppeteer
+- Sentry
+- Servant
+- Swagger
+- Terraform
+- TypeScript
+- Webpack
+- Yesod
+- YouTrack
