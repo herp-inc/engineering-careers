@@ -10,5 +10,5 @@
   - TODO
 - [募集職種](./docs/jobs.md)
   - TODO
-- [選考フロー](./docs/inteviews.md)
+- [選考フロー](./docs/interviews.md)
   - TODO
