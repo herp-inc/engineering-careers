@@ -2,25 +2,25 @@
 
 - Amazon Web Services
 - CircleCI
-- Cycle.js
+- [Cycle.js](https://tech-hub.herp.co.jp/tags/cyclejs/1.html)
 - Datadog
 - Docker
 - Figma
 - fp-ts
 - GitHub
-- Haskell
+- [Haskell](https://tech-hub.herp.co.jp/tags/haskell/1.html)
 - Istio
 - Koa.js
-- Kubernetes
+- [Kubernetes](https://tech-hub.herp.co.jp/tags/kubernetes/1.html)
 - MySQL
-- Nix
+- [Nix](https://tech-hub.herp.co.jp/tags/nix/1.html)
 - Node.js
 - Puppeteer
 - Sentry
 - Servant
 - Swagger
 - Terraform
-- TypeScript
+- [TypeScript](https://tech-hub.herp.co.jp/tags/typescript/1.html)
 - Webpack
 - Yesod
 - YouTrack
