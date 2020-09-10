@@ -26,6 +26,8 @@
 
 ![@azoson](https://avatars.githubusercontent.com/u/13480946?s=256)
 
+エンジニア
+
 東京大学工学部卒業、東京大学大学院学際情報学府中退。2017 年 4 月より HERP にエンジニアインターンとして参画し、約 1 年後正社員として入社。
 
 ---
@@ -33,6 +35,8 @@
 # [@mazamachi](https://github.com/mazamachi)
 
 ![@mazamachi](https://avatars.githubusercontent.com/u/6847568?s=256)
+
+エンジニア
 
 東京大学工学部卒業、東京大学大学院工学系研究科中退。学生時代に株式会社はてな、Wantedly, Inc. 、Google Japan などでエンジニアインターンを経験。HERP には 2017 年 4 月より長期インターンののち、2017 年 12 月に新卒として入社。
 
@@ -42,6 +46,8 @@
 
 ![@b123400](https://avatars.githubusercontent.com/u/127193?s=256)
 
+エンジニア
+
 香港中文大學卒業。旅をしながら iOS、Mac、ウェブ開発してた。Haskell に惹かれて 2018 年 2 月入社。
 
 ---
@@ -49,6 +55,8 @@
 # [@pf-siedler](https://github.com/pf-siedler)
 
 ![@pf-siedler](https://avatars.githubusercontent.com/u/17399340?s=256)
+
+エンジニア
 
 東京大学工学部卒業、東京大学大学院工学系研究科在籍。2018 年 9 月より同大学を休学し HERP にエンジニアインターンとして参画。 2019 年 2 月より正社員として入社。
 
@@ -58,6 +66,8 @@
 
 ![@CYBAI](https://avatars.githubusercontent.com/u/6782666?s=256)
 
+エンジニア
+
 元智大学卒業後、台灣樂天にてフロントエンドエンジニアとして 2 年勤務。その間業務外に Mozilla の Servo プロジェクトに参加。2019 年 2 月より正社員として入社。
 
 ---
@@ -65,6 +75,8 @@
 # [@Nymphium](https://github.com/Nymphium)
 
 ![@Nymphium](https://avatars.githubusercontent.com/u/5901180?s=256)
+
+エンジニア
 
 プログラミングよりもプログラム言語それ自体が好きなタイプの人間｡
 言語設計､処理系､プログラム変換､型システム､継続に思いを馳せている｡
@@ -80,5 +92,7 @@
 # [@shin-sakata](https://github.com/shin-sakata)
 
 ![@shin-sakata](https://avatars.githubusercontent.com/u/56592600?s=256)
+
+エンジニア
 
 TODO
