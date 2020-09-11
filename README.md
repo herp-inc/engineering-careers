@@ -1,5 +1,7 @@
 # 株式会社 HERP エンジニア向け採用資料
 
+![We are hiring](https://img.shields.io/badge/status-hiring-brightgreen)
+
 ## 目次
 
 - [会社概要](./docs/company.md)
