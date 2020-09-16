@@ -10,6 +10,10 @@
   - [@CYBAI](#CYBAI)
   - [@Nymphium](#Nymphium)
   - [@shin-sakata](#shin-sakata)
+- [その他開発チームのメンバー](#その他開発チームのメンバー)
+  - [@NaoyaMotoki](#NaoyaMotoki) (プロダクトマネージャー)
+  - [@o-kwr](#o-kwr) (UI/UX デザイナー)
+  - [@tohayaaa](#tohayaaa) (UI/UX デザイナー)
 
 ---
 
@@ -96,3 +100,29 @@
 新卒(?)で Leverages 株式会社に Web バックエンドエンジニアとして入社後、テックリード、プロジェクトマネジメントなどを経験。
 Haskell 好きが高じて 2020 年 8 月より HERP 参画。
 好きなもの: Haskell, ビジネス, 組織
+
+## その他開発チームのメンバー
+
+### [@NaoyaMotoki](https://github.com/NaoyaMotoki)
+
+![@NaoyaMotoki](https://avatars.githubusercontent.com/u/52651848?s=96)
+
+プロダクトマネージャー
+
+京都大学法学部卒業後、新卒で大手総合エネルギー会社に入社。バックオフィス業務に 3 年間、マレーシアの天然ガス輸出プロジェクトに 2 年間従事。2018 年 7 月より HERP に参画。
+
+### [@o-kwr](https://github.com/o-kwr)
+
+![@o-kwr](https://avatars.githubusercontent.com/u/22651150?s=96)
+
+UI/UX デザイナー
+
+千葉大学工学部デザイン学科卒。千葉大学大学院工学研究科中退。学部時代よりスタートアップやベンチャー企業にてデザイナーとして参画する傍ら、フリーランスとしても活動し、紙媒体・UI/UX・CI/VI をはじめ幅広い領域を手がける。2017 年 11 月入社。
+
+### [@tohayaaa](https://github.com/tohayaaa)
+
+![@tohayaaa](https://avatars.githubusercontent.com/u/39618452?s=96)
+
+UI/UX デザイナー
+
+千葉大学工学部デザイン学科卒業。2018 年 4 月にインターンとして HERP に参画。UI/UX デザイナーとして既存機能の改善、新機能開発に従事。2019 年 3 月に新卒として入社。
