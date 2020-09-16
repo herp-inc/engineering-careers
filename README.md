@@ -4,7 +4,7 @@
 
 ## 目次
 
-- [会社概要](./docs/company.md)
+- [HERP について](./docs/company.md)
   - TODO
 - [技術スタック](./docs/technology-stack.md)
   - TODO
