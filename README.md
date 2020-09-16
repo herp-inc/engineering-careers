@@ -23,6 +23,6 @@
 - [HERP 採用ページ](https://herp.co.jp/careers/)
 - [HERP 求人一覧](https://herp.careers/v1/herpinc)
 - [HERP TechHub](https://tech-hub.herp.co.jp/)
-- [HERP TechNote (scrapbox)](https://scrapbox.io/herp-technote/)
+- [HERP TechNote (Scrapbox)](https://scrapbox.io/herp-technote/)
 - [HERP Hire](https://herp.cloud/)
 - [HERP Nurture](https://lp.herp.cloud/nurture/)
