@@ -2,6 +2,10 @@
 
 - [会社概要](#会社概要)
 - [ミッション](#ミッション)
+- [チーム](#チーム)
+  - [development team](#development-team)
+  - [revenue team](#revenue-team)
+  - [corporate team](#corporate-team)
 
 ---
 
@@ -21,3 +25,35 @@
 「日本の採用 2.0 を実現する」
 
 TODO
+
+## チーム
+
+人数は 2020 年 9 月現在・正社員のみ
+
+### development team
+
+12 名
+
+- SRE (1 名)
+- UI/UX デザイナー (2 名)
+- ソフトウェアエンジニア (8 名)
+- プロダクトマネージャー (1 名)
+
+### revenue team
+
+9 名
+
+- マーケティング
+- インサイドセールス
+- フィールドセールス
+- カスタマーサクセス
+
+### corporate team
+
+2 名
+
+- 経理
+- 労務
+- 法務
+- 総務
+- ファイナンス
