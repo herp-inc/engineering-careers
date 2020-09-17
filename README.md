@@ -5,17 +5,17 @@
 ## 目次
 
 - [HERP について](./docs/company.md)
-  - TODO
+  - HERP という企業についてご紹介します
 - [技術スタック](./docs/technology-stack.md)
-  - TODO
+  - HERP でどのような技術が用いられているかをご紹介します
 - [開発体制・組織](./docs/organization.md)
-  - TODO
+  - HERP でどのように開発が行われているかをご紹介します
 - [メンバー紹介](./docs/members.md)
-  - TODO
+  - HERP の開発チームのメンバーをご紹介します
 - [募集職種](./docs/jobs.md)
-  - TODO
+  - 現在募集中の職種を掲載しています
 - [選考フロー](./docs/interviews.md)
-  - TODO
+  - ご応募いただいた後の流れについてご説明いたします
 
 ## リンク集
 
