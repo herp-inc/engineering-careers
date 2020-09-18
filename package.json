@@ -2,6 +2,7 @@
   "private": true,
   "devDependencies": {
     "@textlint-rule/textlint-rule-no-invalid-control-character": "^1.2.0",
+    "husky": "^4.3.0",
     "prettier": "^2.1.1",
     "textlint": "^11.7.6",
     "textlint-rule-max-ten": "^2.0.4",
@@ -10,5 +11,10 @@
     "textlint-rule-no-dropping-the-ra": "^1.1.3",
     "textlint-rule-no-mix-dearu-desumasu": "^4.0.1",
     "textlint-rule-spellcheck-tech-word": "^5.0.0"
+  },
+  "husky": {
+    "hooks": {
+      "pre-commit": "make lint"
+    }
   }
 }
