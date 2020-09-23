@@ -16,6 +16,7 @@
   - [@NaoyaMotoki](#NaoyaMotoki) (プロダクトマネージャー)
   - [@o-kwr](#o-kwr) (UI/UX デザイナー)
   - [@tohayaaa](#tohayaaa) (UI/UX デザイナー)
+  - [@sallllly0307](#sallllly0307) (UI/UX デザイナーインターン)
 
 ---
 
@@ -144,3 +145,11 @@ UI/UX デザイナー
 UI/UX デザイナー
 
 千葉大学工学部デザイン学科卒業。2018 年 4 月にインターンとして HERP に参画。UI/UX デザイナーとして既存機能の改善、新機能開発に従事。2019 年 3 月に新卒として入社。
+
+### [@sallllly0307](https://github.com/sallllly0307)
+
+![@sallllly0307](https://avatars.githubusercontent.com/u/43309924?s=96)
+
+UI/UX デザイナーインターン
+
+神戸大学経済学部 4 年。大学では計量経済学を専攻。3 年間フリーペーパーの制作、神大生のための総合情報サイト WeeBee の運用、動画制作などを行っていた。2020 年 4 月より長期 UI/UX デザイナーインターン中。
