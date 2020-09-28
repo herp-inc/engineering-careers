@@ -13,6 +13,7 @@
 - [エンジニア (インターン)](#エンジニア-インターン)
   - [@e_ntyo](#e_ntyo)
   - [@coord-e](#coord-e)
+    - [@wraikny](#wraikny)
 - [その他開発チームのメンバー](#その他開発チームのメンバー)
   - [@NaoyaMotoki](#NaoyaMotoki) (プロダクトマネージャー)
   - [@o-kwr](#o-kwr) (UI/UX デザイナー)
@@ -134,6 +135,14 @@ Haskell 好きが高じて 2020 年 8 月より HERP 参画。
 エンジニア
 
 筑波大学情報科学類在学。2019 年 11 月にアルバイトとして入社。Haskell と Rust が好きで、HERP では主に Haskell を書いている。
+
+### [@wraikny](https://github.com/wraikny)
+
+![@wraikny](https://avatars.githubusercontent.com/u/29581531?s=96)
+
+エンジニア
+
+筑波大学情報メディア創成学類在学。2020 年 2 月にアルバイトとして入社。F# と Rust が好き。趣味ではゲームエンジン開発とインディーゲーム開発。HERP では TypeScript を書いている。
 
 ## その他開発チームのメンバー
 
