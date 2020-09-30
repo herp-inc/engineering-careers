@@ -47,7 +47,23 @@ HERP では主にフロントエンド及びバックエンドの開発を行っ
 
 リードエンジニア
 
-雄叫び： 起床に成功している場合、次に自分が着手する開発のコストは 0 になる。
+```yaml
+apiVersion: herp.co.jp/v1alpha1
+kind: Worker
+metadata:
+  name: hiroqn
+  creationTimestamp: "2017-06-01T09:00:00Z"
+  labels:
+    position: LeadEngineer
+spec:
+  university: TokyoTech
+  degree: bachelor of engineering
+  languages:
+    - Nix
+    - JavaScript
+    - OCaml
+    - TypeScript
+```
 
 ### [@azoson](https://github.com/azoson)
 
