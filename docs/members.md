@@ -18,6 +18,7 @@
   - [@NaoyaMotoki](#NaoyaMotoki) (プロダクトマネージャー)
   - [@o-kwr](#o-kwr) (UI/UX デザイナー)
   - [@tohayaaa](#tohayaaa) (UI/UX デザイナー)
+  - [@yokota7](#yokota7) (UI/UX デザイナーインターン)
   - [@sallllly0307](#sallllly0307) (UI/UX デザイナーインターン)
 
 ---
@@ -174,6 +175,15 @@ UI/UX デザイナー
 HERP メンバーの飲み会にいるランキング 3 位くらいには入るであろう酒を愛するデザイナー。
 好きなお酒はホッピー、レモンサワー、ビール、ハイボール、日本酒。
 ホッピーは 1 瓶で 3 杯飲むというマイルールを掲げている。
+
+### [@yokota7](https://github.com/yokota7)
+
+![@yokota7](https://avatars.githubusercontent.com/u/59531601?s=96)
+
+UI/UX デザイナーインターン
+
+千葉大学工学部デザイン学科 4 年。2018 年 2 月~2019 年 12 月、株式会社デスケルでインターン生として UI/UX デザインを学ぶ。2019 年 2 月より HERP にて UI/UX デザイナーインターン中。
+大学ではサービスデザインを専攻。普段は海外のデザインワークショップに参加したり、自身の DJ イベントを開いたりしている。
 
 ### [@sallllly0307](https://github.com/sallllly0307)
 
