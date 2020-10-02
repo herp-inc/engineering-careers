@@ -19,6 +19,7 @@
   - [@o-kwr](#o-kwr) (UI/UX デザイナー)
   - [@tohayaaa](#tohayaaa) (UI/UX デザイナー)
   - [@yokota7](#yokota7) (UI/UX デザイナーインターン)
+  - [@KanadeNishizawa](#KanadeNishizawa) (UI/UX デザイナーインターン)
   - [@sallllly0307](#sallllly0307) (UI/UX デザイナーインターン)
 
 ---
@@ -184,6 +185,14 @@ UI/UX デザイナーインターン
 
 千葉大学工学部デザイン学科 4 年。2018 年 2 月~2019 年 12 月、株式会社デスケルでインターン生として UI/UX デザインを学ぶ。2019 年 2 月より HERP にて UI/UX デザイナーインターン中。
 大学ではサービスデザインを専攻。普段は海外のデザインワークショップに参加したり、自身の DJ イベントを開いたりしている。
+
+### [@KanadeNishizawa](https://github.com/KanadeNishizawa)
+
+![@KanadeNishizawa](https://avatars.githubusercontent.com/u/48097323?s=96)
+
+UI/UX デザイナーインターン
+
+筑波大学芸術専門学群所属。大学でメディアアートや造形学を学びつつ、趣味で Web サイトを作ったりアプリのデザインをしたりしている。かつては絵を描いていた(挫折した)。スパイものや SF の洋画をよく観る。名前の割に楽器は特に何も弾けない。居飛車党で角換わりが好き、右玉がトラウマ。
 
 ### [@sallllly0307](https://github.com/sallllly0307)
 
