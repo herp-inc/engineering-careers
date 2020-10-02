@@ -13,7 +13,7 @@
 - [エンジニア (インターン)](#エンジニア-インターン)
   - [@e_ntyo](#e_ntyo)
   - [@coord-e](#coord-e)
-    - [@wraikny](#wraikny)
+  - [@wraikny](#wraikny)
 - [その他開発チームのメンバー](#その他開発チームのメンバー)
   - [@NaoyaMotoki](#NaoyaMotoki) (プロダクトマネージャー)
   - [@o-kwr](#o-kwr) (UI/UX デザイナー)
