@@ -15,6 +15,7 @@
   - [@coord-e](#coord-e)
   - [@wraikny](#wraikny)
 - [エンジニア (業務委託)](#エンジニア-業務委託)
+  - [@kdxu](#kdxu)
 - [その他開発チームのメンバー](#その他開発チームのメンバー)
   - [@NaoyaMotoki](#NaoyaMotoki) (プロダクトマネージャー)
   - [@o-kwr](#o-kwr) (UI/UX デザイナー)
@@ -148,6 +149,16 @@ Haskell 好きが高じて 2020 年 8 月より HERP 参画。
 筑波大学情報メディア創成学類在学。2020 年 2 月にアルバイトとして入社。F# と Rust が好き。趣味ではゲームエンジン開発とインディーゲーム開発。HERP では TypeScript を書いている。
 
 ## エンジニア (業務委託)
+
+### [@kdxu](https://github.com/kdxu)
+
+![@kdxu](https://avatars.githubusercontent.com/u/3781952?s=96)
+
+エンジニア
+
+お茶の水女子大学大学院人間文化創成科学研究科卒業後、諸々を経て 2020 年 8 月から HERP のお手伝いとして参加。
+HERP では Haskell / TypeScript を書いたり概念として偏在している。
+OCaml と Erlang が好き。
 
 ## その他開発チームのメンバー
 
