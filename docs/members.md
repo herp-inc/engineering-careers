@@ -13,6 +13,7 @@
 - [エンジニア (インターン)](#エンジニア-インターン)
   - [@e_ntyo](#e_ntyo)
   - [@coord-e](#coord-e)
+  - [@HikaruEgashira](#HikaruEgashira)
   - [@wraikny](#wraikny)
 - [その他開発チームのメンバー](#その他開発チームのメンバー)
   - [@NaoyaMotoki](#NaoyaMotoki) (プロダクトマネージャー)
@@ -137,6 +138,15 @@ Haskell 好きが高じて 2020 年 8 月より HERP 参画。
 エンジニア
 
 筑波大学情報科学類在学。2019 年 11 月にアルバイトとして入社。Haskell と Rust が好きで、HERP では主に Haskell を書いている。
+
+### [@HikaruEgashira](https://github.com/HikaruEgashira)
+
+![@HikaruEgashira](https://avatars.githubusercontent.com/u/39324739?s=96)
+
+エンジニア
+
+筑波大学情報科学類在学。2019 年 11 月にインターンとして参画。SaaS に興味がある。
+最近の趣味は Rust 。以前から愛用していた TypeScript を HERP でも利用している。
 
 ### [@wraikny](https://github.com/wraikny)
 
