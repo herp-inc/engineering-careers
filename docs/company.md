@@ -9,6 +9,7 @@
   - [development team](#development-team)
   - [revenue team](#revenue-team)
   - [corporate team](#corporate-team)
+- [福利厚生](#福利厚生)
 
 ---
 
@@ -83,3 +84,10 @@
 - 法務
 - 総務
 - ファイナンス
+
+## 福利厚生
+
+- 社用端末支給
+- ディスプレイ支給
+- 書籍購入制度
+- フリードリンク (水・スペシャルティコーヒー)
