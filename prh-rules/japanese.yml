@@ -1,0 +1,6 @@
+# https://github.com/textlint-rule/textlint-rule-prh#prh-format
+version: 1
+rules:
+  # 「します」で統一
+  - expected: します
+    pattern: いたします
