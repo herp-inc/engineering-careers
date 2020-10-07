@@ -8,6 +8,11 @@
     "no-doubled-conjunction": true,
     "no-dropping-the-ra": true,
     "spellcheck-tech-word": true,
-    "no-mix-dearu-desumasu": true
-  }
+    "no-mix-dearu-desumasu": true,
+    "prh": {
+      "rulePaths": [
+        "prh-rules/japanese.yml"
+      ]
+    }
+  },
 }
