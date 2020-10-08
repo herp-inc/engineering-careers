@@ -16,6 +16,7 @@
   - [@HikaruEgashira](#HikaruEgashira)
   - [@wraikny](#wraikny)
 - [エンジニア (業務委託)](#エンジニア-業務委託)
+  - [@whywaita](#whywaita)
   - [@kdxu](#kdxu)
 - [その他開発チームのメンバー](#その他開発チームのメンバー)
   - [@NaoyaMotoki](#NaoyaMotoki) (プロダクトマネージャー)
@@ -175,6 +176,15 @@ Haskell 好きが高じて 2020 年 8 月より HERP 参画。
 筑波大学情報メディア創成学類在学。2020 年 2 月にアルバイトとして入社。F# と Rust が好き。趣味ではゲームエンジン開発とインディーゲーム開発。HERP では TypeScript を書いている。
 
 ## エンジニア (業務委託)
+
+### [@whywaita](https://github.com/whywaita)
+
+![@whywaita](https://avatars.githubusercontent.com/u/4568341?s=96)
+
+エンジニア
+
+2018 年 6 月から HERP にインターンとして参加し、その後業務委託として参加。
+HERP では Kubernetes を始めとしてインフラ面のお手伝いをしている。
 
 ### [@kdxu](https://github.com/kdxu)
 
