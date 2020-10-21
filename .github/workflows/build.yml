@@ -1,7 +1,7 @@
 name: Build
 
 # https://docs.github.com/ja/free-pro-team@latest/actions/reference/events-that-trigger-workflows#%E3%82%A4%E3%83%99%E3%83%B3%E3%83%88%E3%81%AE%E3%83%AA%E3%82%B9%E3%83%88%E3%82%92%E4%BD%BF%E7%94%A8%E3%81%99%E3%82%8B%E4%BE%8B
-on: [push, pull_request]
+on: pull_request
 
 jobs:
   build:
@@ -24,5 +24,21 @@ jobs:
       - name: Install dependencies
         run: yarn install --frozen-lockfile
 
+      - name: Setup ruby
+        uses: actions/setup-ruby@v1
+        with:
+          ruby-version: '2.6'
+          architecture: 'x64'
+
+      - name: Install danger
+        run: |
+          gem install bundler
+          bundle install
+
       - name: Lint
         run: make lint
+
+      - name: Run danger
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: danger
