@@ -9,7 +9,7 @@ jobs:
     steps:
       - uses: actions/checkout@v2
         with:
-          fetch-depth: 0
+          fetch-depth: 0 # https://github.com/danger/danger/issues/1103#issuecomment-635539947
 
       - name: Cache node_modules
         uses: actions/cache@v2
