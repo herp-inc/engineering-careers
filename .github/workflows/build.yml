@@ -27,8 +27,8 @@ jobs:
       - name: Setup ruby
         uses: actions/setup-ruby@v1
         with:
-          ruby-version: '2.6'
-          architecture: 'x64'
+          ruby-version: "2.6"
+          architecture: "x64"
 
       - name: Install danger
         run: |
