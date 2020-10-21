@@ -36,3 +36,6 @@ jobs:
           GITHUB_TOKEN: ${{ github.token }}
         run: danger
 
+      - name: Prettier
+        run: npx prettier --check .
+
