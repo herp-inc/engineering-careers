@@ -26,7 +26,7 @@ jobs:
 
       - name: Install danger
         run: |
-          gem install bundler
+          sudo gem install bundler
           bundle install
 
       - name: Run danger
