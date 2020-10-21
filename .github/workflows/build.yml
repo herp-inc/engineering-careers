@@ -31,7 +31,13 @@ jobs:
         with:
           commit_message: Apply prettier changes
 
-      - name: Danger
-        uses: yuichielectric/danger-textlint-actions@master
+      - name: Install danger
+        run: |
+          gem install bundler
+          bundle install
+
+      - name: Run danger
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: danger
+
