@@ -24,21 +24,7 @@ jobs:
       - name: Install dependencies
         run: yarn install --frozen-lockfile
 
-      - name: Setup ruby
-        uses: actions/setup-ruby@v1
-        with:
-          ruby-version: "2.6"
-          architecture: "x64"
-
-      - name: Install danger
-        run: |
-          gem install bundler
-          bundle install
-
-      - name: Lint
-        run: make lint
-
-      - name: Run danger
+      - name: Danger
+        uses: yuichielectric/danger-textlint-actions@master
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        run: danger
