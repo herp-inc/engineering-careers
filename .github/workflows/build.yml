@@ -1,13 +1,15 @@
 name: Build
 
 # https://docs.github.com/ja/free-pro-team@latest/actions/reference/events-that-trigger-workflows#%E3%82%A4%E3%83%99%E3%83%B3%E3%83%88%E3%81%AE%E3%83%AA%E3%82%B9%E3%83%88%E3%82%92%E4%BD%BF%E7%94%A8%E3%81%99%E3%82%8B%E4%BE%8B
-on: [push, pull_request]
+on: pull_request
 
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
+        with:
+          fetch-depth: 0 # https://github.com/danger/danger/issues/1103#issuecomment-635539947
 
       - name: Cache node_modules
         uses: actions/cache@v2
@@ -24,5 +26,15 @@ jobs:
       - name: Install dependencies
         run: yarn install --frozen-lockfile
 
-      - name: Lint
-        run: make lint
+      - name: Install danger
+        run: |
+          sudo gem install bundler
+          bundle install
+
+      - name: Run danger
+        env:
+          GITHUB_TOKEN: ${{ github.token }}
+        run: danger
+
+      - name: Prettier
+        run: npx prettier --check .
