@@ -1,6 +1,7 @@
 # 技術スタック
 
 - Amazon Web Services
+- Argo CD
 - CircleCI
 - [Cycle.js](https://tech-hub.herp.co.jp/tags/cyclejs/1.html)
 - Datadog
