@@ -8,8 +8,6 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
-        with:
-          fetch-depth: 0 # https://github.com/danger/danger/issues/1103#issuecomment-635539947
 
       - name: Cache node_modules
         uses: actions/cache@v2
@@ -25,16 +23,6 @@ jobs:
 
       - name: Install dependencies
         run: yarn install --frozen-lockfile
-
-      - name: Install danger
-        run: |
-          sudo gem install bundler
-          bundle install
-
-      - name: Run danger
-        env:
-          GITHUB_TOKEN: ${{ github.token }}
-        run: danger
 
       - name: Prettier
         run: npx prettier --check .
