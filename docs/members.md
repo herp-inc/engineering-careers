@@ -25,6 +25,7 @@
   - [@yokota7](#yokota7) (UI/UX デザイナーインターン)
   - [@KanadeNishizawa](#KanadeNishizawa) (UI/UX デザイナーインターン)
   - [@sallllly0307](#sallllly0307) (UI/UX デザイナーインターン)
+  - [@mkobayashime](#mkobayashime) (UI/UX デザイナーインターン)
 
 ---
 
@@ -252,3 +253,11 @@ UI/UX デザイナーインターン
 UI/UX デザイナーインターン
 
 神戸大学経済学部 4 年。大学では計量経済学を専攻。3 年間フリーペーパーの制作、神大生のための総合情報サイト WeeBee の運用、動画制作などを行っていた。2020 年 4 月より長期 UI/UX デザイナーインターン中。
+
+### [@mkobayashime](https://github.com/mkobayashime)
+
+![@mkobayashime](https://avatars.githubusercontent.com/u/17699481?s=96)
+
+UI/UX デザイナーインターン
+
+筑波大学情報学群在学中。中高在学時にグラフィックデザインを独学し、フロントエンドに興味を持つ。実装まで責任を持ってデザインに取り組める点に魅力を感じ、2020 年 11 月に HERP にインターンとしてジョイン。
