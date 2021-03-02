@@ -10,6 +10,7 @@
   - [@CYBAI](#CYBAI)
   - [@Nymphium](#Nymphium)
   - [@shin-sakata](#shin-sakata)
+  - [@ruicc](#ruicc)
 - [エンジニア (インターン)](#エンジニア-インターン)
   - [@e_ntyo](#e_ntyo)
   - [@coord-e](#coord-e)
@@ -141,6 +142,23 @@ Haskell は HERP に入って知った。
 新卒(?)で Leverages 株式会社に Web バックエンドエンジニアとして入社後、テックリード、プロジェクトマネジメントなどを経験。
 Haskell 好きが高じて 2020 年 8 月より HERP 参画。
 好きなもの: Haskell, ビジネス, 組織
+
+
+### [@ruicc](https://github.com/ruicc)
+
+![@ruicc](https://avatars.githubusercontent.com/u/693530?s=96)
+
+エンジニア
+
+東京工業大学制御システム工学科卒、東京工業大学院情報環境学専攻修了。B3あたりからHaskellを触り初めた(当時ghc-6.8)。
+Altplus Inc, FIVE Inc, LINE corpでバックエンドを中心にだいたいなんでもやる係をやっていた。ベンチャーに割と長く居てビジネスに特化したスキル構成になっている。
+
+オーケストラではバイオリンパートだった。バイオリン奏者なら誰でも知っているが、このiconの様にバイオリンを椅子に置いてはいけない（あれは撮影用の一時的なもの）
+
+好きなもの: Haskell, Vim
+
+好きなバイオリニスト: Hilary Hahn
+
 
 ## エンジニア (インターン)
 
