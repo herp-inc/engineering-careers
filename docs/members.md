@@ -24,7 +24,7 @@
   - [@o-kwr](#o-kwr) (UI/UX デザイナー)
   - [@tohayaaa](#tohayaaa) (UI/UX デザイナー)
   - [@KanadeNishizawa](#KanadeNishizawa) (UI/UX デザイナーインターン)
-  - [@sallllly0307](#sallllly0307) (UI/UX デザイナーインターン)
+  - [@sallllly0307](#sallllly0307) (UI/UX デザイナー)
   - [@mkobayashime](#mkobayashime) (UI/UX デザイナーインターン)
 
 ---
@@ -256,9 +256,9 @@ UI/UX デザイナーインターン
 
 ![@sallllly0307](https://avatars.githubusercontent.com/u/43309924?s=96)
 
-UI/UX デザイナーインターン
+UI/UX デザイナー
 
-神戸大学経済学部 4 年。大学では計量経済学を専攻。3 年間フリーペーパーの制作、神大生のための総合情報サイト WeeBee の運用、動画制作などを行っていた。2020 年 4 月より長期 UI/UX デザイナーインターン中。
+神戸大学経済学部卒業。1 年のインターン期間を経て、2021 年 4 月に新卒として入社。既存機能の改善から新規機能開発、ヘルプページの作成までデザイナーの枠を超えて価値提供に奔走している。関西および京都が好きすぎて、わがままをいって京都オフィス配属にしてもらった。鴨川沿いに住み、近所を散歩するのが好き。でもパンは神戸の方がおいしい。
 
 ### [@mkobayashime](https://github.com/mkobayashime)
 
