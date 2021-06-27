@@ -7,7 +7,6 @@
   - [@mazamachi](#mazamachi)
   - [@b123400](#b123400)
   - [@pf-siedler](#pf-siedler)
-  - [@CYBAI](#CYBAI)
   - [@Nymphium](#Nymphium)
   - [@shin-sakata](#shin-sakata)
   - [@ruicc](#ruicc)
@@ -106,14 +105,6 @@ HERP 社内ではプロジェクトマネジメント、要件定義、改善な
 HERP Hire のフロントエンド、バックエンド開発を担当。主に TypeScript を書いている。
 Haskell は HERP に入って知った。
 趣味：登山、ゲーム
-
-### [@CYBAI](https://github.com/CYBAI)
-
-![@CYBAI](https://avatars.githubusercontent.com/u/6782666?s=96)
-
-エンジニア
-
-たまたま大学で計算機科学を専攻して、たまたまエンジニアになった人間。Web フロントエンドに興味を持っていて、2018 年から Servo プロジェクトに貢献してます。好きなプログラミング言語は Haskell、Rust、JavaScript。型理論とかにも興味津々なので、勉強しています。
 
 ### [@Nymphium](https://github.com/Nymphium)
 
