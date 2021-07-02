@@ -10,6 +10,7 @@
   - [@Nymphium](#Nymphium)
   - [@shin-sakata](#shin-sakata)
   - [@ruicc](#ruicc)
+  - [@ACJustPlay](#ACJustPlay)
   - [@kdxu](#kdxu)
   - [@e_ntyo](#e_ntyo)
   - [@daisukeendo111](#daisukeendo111)
@@ -148,6 +149,14 @@ Altplus Inc, FIVE Inc, LINE corp でバックエンドを中心にだいたい�
 好きなもの: Haskell, Vim
 
 好きなバイオリニスト: Hilary Hahn
+
+### [@ACJustPlay](https://github.com/ACJustPlay)
+
+![@ACJustPlay](https://avatars.githubusercontent.com/u/20284284?s=96)
+
+エンジニア
+
+Hong Kong Baptist University から卒業した後、気付いたら日本に来てしまってエンジニアになってしまった。大きい会社達小さい会社達を経験して HERP にたどり着いた。人生不思議。
 
 ### [@kdxu](https://github.com/kdxu)
 
