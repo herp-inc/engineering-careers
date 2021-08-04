@@ -14,6 +14,7 @@
   - [@kdxu](#kdxu)
   - [@e_ntyo](#e_ntyo)
   - [@daisukeendo111](#daisukeendo111)
+  - [@taketo957](#taketo957)
 - [エンジニア (インターン)](#エンジニア-インターン)
   - [@coord-e](#coord-e)
   - [@HikaruEgashira](#HikaruEgashira)
@@ -183,6 +184,16 @@ OCaml と Erlang が好き。
 エンジニア
 
 早稲田大学教育学部国語国文学科卒。大学では主に古事記・日本書紀の研究をしていた。受託系の企業で Web デザイン・Flash コンテンツ開発・ディレクションなどを経験した後、フロントエンドエンジニアとして、サイバーエージェント・NHN PlayArt・ビズリーチ・GA technologies を渡り歩いてきた。iPhone を買い換える度に GitHub にログインできなくなっているタイプ。
+
+### [@taketo957](https://github.com/taketo957)
+
+![@taketo957](https://avatars.githubusercontent.com/u/2588391?s=96)
+
+エンジニア
+
+京都大学工学部卒業、京都大学大学院情報学研究科卒業。
+新卒で株式会社はてなに入社後、SRE として Web サービスの運用・構築などを経験する。
+強い縁に導かれて 2021 年 8 月より HERP に SRE として参加。
 
 ## エンジニア (インターン)
 
