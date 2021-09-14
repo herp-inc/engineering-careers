@@ -38,7 +38,7 @@ HERP で働くことに興味を持ってくださった方は、[目次](https:
 ## リンク集
 
 - [HERP コーポレートサイト](https://herp.co.jp/)
-- [HERP 採用ページ](https://herp.co.jp/careers/)
+- [HERP 採用ページ](https://careers.herp.co.jp/)
 - [HERP 求人一覧](https://herp.careers/v1/herpinc)
 - [HERP TechHub](https://tech-hub.herp.co.jp/)
   - HERP のメンバーによる開発に関するブログ記事をまとめています
