@@ -2,6 +2,7 @@
 
 - [会社概要](#会社概要)
 - [ミッション](#ミッション)
+- [プロダクトビジョン](#プロダクトビジョン)
 - [サービス](#サービス)
   - [HERP Hire](#herp-hire)
   - [HERP Nurture](#herp-nurture)
@@ -46,6 +47,14 @@
 
 2021 年 10 月にミッションを改訂しました。
 詳しい背景やメッセージについては、[HERP Culture Deck](https://culture.herp.co.jp/998edaef25f9484aa323b6bf3b63b7dc) や [代表の庄田の note](https://note.com/fabichirox/n/n69b934907b66) をご覧ください。
+
+## プロダクトビジョン
+
+**オープンな採用を支え、事業成長を加速させる。**
+
+企業が選ばれる時代に求められるオープンな採用を支えることで、企業の採用を成功させ強い事業・強い企業をつくることをサポートします。
+
+詳しくは [HERP Culture Deck](https://www.notion.so/herp/fcc88971ec924bb1b4ad77d36157bfcb) をご覧ください。
 
 ## サービス
 
