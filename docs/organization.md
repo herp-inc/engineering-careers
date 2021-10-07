@@ -35,7 +35,7 @@ HERP には主要なプロダクトが二つあります。
 - [HERP Hire](https://herp.cloud/)
 - [HERP Nurture](https://lp.herp.cloud/nurture/)
 
-HERP Hire と HERP Nuture の開発に スクラム を用いています。
+HERP Hire と HERP Nurture の開発に スクラム を用いています。
 
 プロダクトごとにスクラムチームを構成し、プロダクト全体を責務にクロスファンクショナルであることを目指しています。
 ユーザーヒアリングから企画、デザイン、開発、運用などのソフトウェア価値提供に関する全てのスキルをチームとして保有しています。
