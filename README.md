@@ -38,6 +38,8 @@ HERP で働くことに興味を持ってくださった方は、[目次](https:
 ## リンク集
 
 - [HERP コーポレートサイト](https://herp.co.jp/)
+- [HERP Culture Deck](https://culture.herp.co.jp/)
+  - HERP という組織が目指したいミッション・プロダクトビジョン・ありたい組織像などを整理したドキュメントです
 - [HERP 採用ページ](https://careers.herp.co.jp/)
 - [HERP 求人一覧](https://herp.careers/v1/herpinc)
 - [HERP TechHub](https://tech-hub.herp.co.jp/)
