@@ -3,7 +3,7 @@
 - [会社概要](#会社概要)
 - [ミッション](#ミッション)
 - [プロダクトビジョン](#プロダクトビジョン)
-- [サービス](#サービス)
+- [プロダクト](#プロダクト)
   - [HERP Hire](#herp-hire)
   - [HERP Nurture](#herp-nurture)
 - [チーム](#チーム)
@@ -56,7 +56,7 @@
 
 詳しくは [HERP Culture Deck](https://www.notion.so/herp/fcc88971ec924bb1b4ad77d36157bfcb) をご覧ください。
 
-## サービス
+## プロダクト
 
 ### [HERP Hire](https://herp.cloud/)
 
