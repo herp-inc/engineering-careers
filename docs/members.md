@@ -15,6 +15,7 @@
   - [@e_ntyo](#e_ntyo)
   - [@daisukeendo111](#daisukeendo111)
   - [@taketo957](#taketo957)
+  - [@numb_86](#numb_86)
 - [エンジニア (インターン)](#エンジニア-インターン)
   - [@coord-e](#coord-e)
   - [@HikaruEgashira](#HikaruEgashira)
@@ -194,6 +195,14 @@ OCaml と Erlang が好き。
 京都大学工学部卒業、京都大学大学院情報学研究科卒業。
 新卒で株式会社はてなに入社後、SRE として Web サービスの運用・構築などを経験する。
 強い縁に導かれて 2021 年 8 月より HERP に SRE として参加。
+
+### [@numb_86](https://github.com/numb86)
+
+![@numb_86](https://avatars.githubusercontent.com/u/16703337?s=96)
+
+エンジニア
+
+30 歳からプログラミングを始め、2021 年 10 月に HERP に入社。
 
 ## エンジニア (インターン)
 
