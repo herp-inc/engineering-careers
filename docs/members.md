@@ -17,9 +17,7 @@
   - [@taketo957](#taketo957)
   - [@numb_86](#numb_86)
 - [エンジニア (インターン)](#エンジニア-インターン)
-  - [@coord-e](#coord-e)
   - [@HikaruEgashira](#HikaruEgashira)
-  - [@wraikny](#wraikny)
 - [エンジニア (業務委託)](#エンジニア-業務委託)
   - [@whywaita](#whywaita)
 - [その他開発チームのメンバー](#その他開発チームのメンバー)
@@ -206,14 +204,6 @@ OCaml と Erlang が好き。
 
 ## エンジニア (インターン)
 
-### [@coord-e](https://github.com/coord-e)
-
-![@coord-e](https://avatars.githubusercontent.com/u/16184855?s=96)
-
-エンジニア
-
-筑波大学情報科学類在学。2019 年 11 月にアルバイトとして入社。Haskell と Rust が好きで、HERP では主に Haskell を書いている。
-
 ### [@HikaruEgashira](https://github.com/HikaruEgashira)
 
 ![@HikaruEgashira](https://avatars.githubusercontent.com/u/39324739?s=96)
@@ -222,14 +212,6 @@ OCaml と Erlang が好き。
 
 筑波大学情報科学類在学。2019 年 11 月にインターンとして参画。SaaS に興味がある。
 最近の趣味は Rust 。以前から愛用していた TypeScript を HERP でも利用している。
-
-### [@wraikny](https://github.com/wraikny)
-
-![@wraikny](https://avatars.githubusercontent.com/u/29581531?s=96)
-
-エンジニア
-
-筑波大学情報メディア創成学類在学。2020 年 2 月にアルバイトとして入社。F# と Rust が好き。趣味ではゲームエンジン開発とインディーゲーム開発。HERP では TypeScript を書いている。
 
 ## エンジニア (業務委託)
 
