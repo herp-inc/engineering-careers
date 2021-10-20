@@ -1,6 +1,6 @@
 # 株式会社 HERP エンジニア向け採用資料
 
-![We are hiring](https://img.shields.io/badge/status-hiring-brightgreen)
+![We are hiring](https://img.shields.io/badge/status-hiring-brightgreen) ![Industry: HRTech](https://img.shields.io/badge/industry-HRTech-orange)
 
 ## イントロダクション
 
