@@ -28,7 +28,7 @@
 - Servant
 - Swagger
 - Yesod
-- gPPC
+- gRPC
 - protocolbuffers
 - GraphQL
 
