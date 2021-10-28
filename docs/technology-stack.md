@@ -29,7 +29,7 @@
 - Swagger
 - Yesod
 - gPPC
-- protocolbuffer
+- protocolbuffers
 - GraphQL
 
 ## DevOps / SRE
