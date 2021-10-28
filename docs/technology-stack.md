@@ -28,6 +28,9 @@
 - Servant
 - Swagger
 - Yesod
+- gRPC
+- Protocol Buffers
+- GraphQL
 
 ## DevOps / SRE
 
