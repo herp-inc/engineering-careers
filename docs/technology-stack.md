@@ -12,6 +12,7 @@
 - [Cycle.js](https://tech-hub.herp.co.jp/tags/cyclejs/1.html)
   - テナント向けアプリケーションで利用しています
 - fp-ts
+- GraphQL
 - Next.js
   - 認証を要しない、外部に公開されるアプリケーションで利用しています
 - [TypeScript](https://tech-hub.herp.co.jp/tags/typescript/1.html)
@@ -30,7 +31,6 @@
 - Yesod
 - gRPC
 - Protocol Buffers
-- GraphQL
 
 ## DevOps / SRE
 
