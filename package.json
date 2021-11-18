@@ -13,9 +13,7 @@
     "textlint-rule-prh": "5.3.0",
     "textlint-rule-spellcheck-tech-word": "5.0.0"
   },
-  "husky": {
-    "hooks": {
-      "pre-commit": "make lint"
-    }
+  "scripts": {
+    "prepare": "husky install"
   }
 }
