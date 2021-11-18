@@ -20,6 +20,7 @@
   - [@HikaruEgashira](#HikaruEgashira)
 - [エンジニア (業務委託)](#エンジニア-業務委託)
   - [@whywaita](#whywaita)
+  - [@hilinker](#hilinker)
 - [その他開発チームのメンバー](#その他開発チームのメンバー)
   - [@NaoyaMotoki](#NaoyaMotoki) (プロダクトマネージャー)
   - [@tohayaaa](#tohayaaa) (UI/UX デザイナー)
@@ -226,6 +227,15 @@ OCaml と Erlang が好き。
 
 2018 年 6 月から HERP にインターンとして参加し、その後業務委託として参加。
 HERP では Kubernetes を始めとしてインフラ面のお手伝いをしている。
+
+### [@hilinker](https://github.com/aqla114)
+
+![@hilinker](https://avatars.githubusercontent.com/u/26360576?s=96)
+
+エンジニア
+
+2018 年 9 月から HERP にインターンとして参加し、その後業務委託として参加。
+HERP では主に E2E テストの整備やそれを通じたプロダクトの改善などを行っている。
 
 ## その他開発チームのメンバー
 
