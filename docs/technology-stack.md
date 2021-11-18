@@ -38,12 +38,14 @@ HERP でどのような技術が用いられているかをご紹介します。
 
 ## DevOps / SRE
 
-- Amazon Web Services
-- Argo CD
-- Datadog
-- Istio
-- [Kubernetes](https://tech-hub.herp.co.jp/tags/kubernetes/1.html)
-- Terraform
+HERP ではクラウドプロバイダーとして [Amazon Web Services (AWS)](https://aws.amazon.com/) を採用し、[Amazon Elastic Kubernetes Service (EKS)](https://aws.amazon.com/eks/) によって構築された [Kubernetes](https://kubernetes.io/) クラスタを運用しています。
+また、クラスタ上では [Istio](https://istio.io/) を用いたサービスメッシュを構築しています。
+
+GitOps を用いた継続的デリバリを実現するため、上記のクラスタ上で [Argo CD](https://argoproj.github.io/cd/) を運用しています。
+
+AWS 上などに存在するリソースは [Terraform](https://www.terraform.io/) を用いてプロビジョニングを行っています。
+
+監視・ロギング・メトリクスには [Datadog](https://www.datadoghq.com/) を利用しています。
 
 ## その他
 
