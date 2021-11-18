@@ -1,5 +1,9 @@
 # 技術スタック
 
+HERP でどのような技術が用いられているかをご紹介します。
+
+開発チームのメンバーによるブログ記事をまとめた [HERP TechHub](https://tech-hub.herp.co.jp/) や、社内で用いられている技術に関して書かれた Scrapbox である [HERP TechNote](https://scrapbox.io/herp-technote/) も合わせてご覧ください。
+
 - [Web フロントエンド](#Web-フロントエンド)
 - [バックエンド](#バックエンド)
 - [DevOps / SRE](#DevOps--SRE)
