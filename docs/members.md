@@ -15,19 +15,18 @@
   - [@e_ntyo](#e_ntyo)
   - [@daisukeendo111](#daisukeendo111)
   - [@taketo957](#taketo957)
+  - [@numb_86](#numb_86)
 - [エンジニア (インターン)](#エンジニア-インターン)
-  - [@coord-e](#coord-e)
   - [@HikaruEgashira](#HikaruEgashira)
-  - [@wraikny](#wraikny)
 - [エンジニア (業務委託)](#エンジニア-業務委託)
   - [@whywaita](#whywaita)
+  - [@hilinker](#hilinker)
 - [その他開発チームのメンバー](#その他開発チームのメンバー)
   - [@NaoyaMotoki](#NaoyaMotoki) (プロダクトマネージャー)
-  - [@o-kwr](#o-kwr) (デザイナー-業務委託)
-  - [@tohayaaa](#tohayaaa) (プロダクトデザイナー)
-  - [@KanadeNishizawa](#KanadeNishizawa) (プロダクトデザイナーインターン)
-  - [@sallllly0307](#sallllly0307) (プロダクトデザイナー)
-  - [@mkobayashime](#mkobayashime) (プロダクトデザイナーインターン)
+  - [@tohayaaa](#tohayaaa) (UI/UX デザイナー)
+  - [@KanadeNishizawa](#KanadeNishizawa) (UI/UX デザイナーインターン)
+  - [@sallllly0307](#sallllly0307) (UI/UX デザイナー)
+  - [@mkobayashime](#mkobayashime) (UI/UX デザイナーインターン)
 
 ---
 
@@ -177,6 +176,10 @@ OCaml と Erlang が好き。
 
 筑波大学情報学群知識情報・図書館学類卒業。学士（図書館情報学）。大学での研究領域は情報検索（information retrieval）で、具体的には、まさにこういった感じの自己紹介文章の作成を情報検索技術で支援するシステムについて研究していた。趣味はおもしろい（主観） Web サービスをつくることで、高等学校および大学在学中の五年間、はてなやエウレカなど 5 社以上の企業で継続的にインターン・アルバイトを経験し Web 開発の技術を学んだ。HERP には fp-ts を学ぶ目的でパートタイムとして入社し、2021 年 4 月よりフルタイム契約。
 
+📝 https://dev.to/e_ntyo
+
+📝 https://e-ntyo.hatenablog.com/
+
 ### [@daisukeendo111](https://github.com/daisukeendo111)
 
 ![@daisukeendo111](https://avatars.githubusercontent.com/u/83945251?s=96)
@@ -195,15 +198,15 @@ OCaml と Erlang が好き。
 新卒で株式会社はてなに入社後、SRE として Web サービスの運用・構築などを経験する。
 強い縁に導かれて 2021 年 8 月より HERP に SRE として参加。
 
-## エンジニア (インターン)
+### [@numb_86](https://github.com/numb86)
 
-### [@coord-e](https://github.com/coord-e)
-
-![@coord-e](https://avatars.githubusercontent.com/u/16184855?s=96)
+![@numb_86](https://avatars.githubusercontent.com/u/16703337?s=96)
 
 エンジニア
 
-筑波大学情報科学類在学。2019 年 11 月にアルバイトとして入社。Haskell と Rust が好きで、HERP では主に Haskell を書いている。
+30 歳からプログラミングを始め、2021 年 10 月に HERP に入社。
+
+## エンジニア (インターン)
 
 ### [@HikaruEgashira](https://github.com/HikaruEgashira)
 
@@ -213,14 +216,6 @@ OCaml と Erlang が好き。
 
 筑波大学情報科学類在学。2019 年 11 月にインターンとして参画。SaaS に興味がある。
 最近の趣味は Rust 。以前から愛用していた TypeScript を HERP でも利用している。
-
-### [@wraikny](https://github.com/wraikny)
-
-![@wraikny](https://avatars.githubusercontent.com/u/29581531?s=96)
-
-エンジニア
-
-筑波大学情報メディア創成学類在学。2020 年 2 月にアルバイトとして入社。F# と Rust が好き。趣味ではゲームエンジン開発とインディーゲーム開発。HERP では TypeScript を書いている。
 
 ## エンジニア (業務委託)
 
@@ -233,6 +228,15 @@ OCaml と Erlang が好き。
 2018 年 6 月から HERP にインターンとして参加し、その後業務委託として参加。
 HERP では Kubernetes を始めとしてインフラ面のお手伝いをしている。
 
+### [@hilinker](https://github.com/aqla114)
+
+![@hilinker](https://avatars.githubusercontent.com/u/26360576?s=96)
+
+エンジニア
+
+2018 年 9 月から HERP にインターンとして参加し、その後業務委託として参加。
+HERP では主に E2E テストの整備やそれを通じたプロダクトの改善などを行っている。
+
 ## その他開発チームのメンバー
 
 ### [@NaoyaMotoki](https://github.com/NaoyaMotoki)
@@ -241,16 +245,7 @@ HERP では Kubernetes を始めとしてインフラ面のお手伝いをして
 
 プロダクトマネージャー
 
-京都大学法学部卒業後、新卒で大手総合エネルギー会社に入社。バックオフィス業務に 3 年間、マレーシアの天然ガス輸出プロジェクトに 2 年間従事。2018 年 7 月より HERP に参画。スタートアップの採用コンサルティングに従事し、十数社の採用を支援する。その後、自社の資金調達業務に従事したのち、2019 年 6 月ころより現職。開発ロードマップの策定、開発チームのリソース配分、プロダクトの QCD に責任を持っている。最近の趣味は筋トレとゴルフ。パチンコをやめるのが得意。
-
-### [@o-kwr](https://github.com/o-kwr)
-
-![@o-kwr](https://avatars.githubusercontent.com/u/22651150?s=96)
-
-デザイナー
-
-千葉大学工学部デザイン学科卒。2017 年 11 月に同大学院を中退し株式会社 HERP へデザイナーとしてジョイン。HERP Hire 立ち上げ時からプロダクトの仕様検討や体験設計、UI デザインを担う。最近新築マンションを購入したら全く家から出なくなったことで知られており、10 秒に 1 回はホームパーティーがしたいと考えている。
-普段はプロジェクトマネジメントをメインに行っており、必要に応じて要件定義や UI デザイン、マーケクリエイティブ制作、デザイナー採用など幅広く何でもやる。
+京都大学法学部卒業後、新卒で大手総合エネルギー会社に入社。バックオフィス業務に 3 年間、マレーシアの天然ガス輸出プロジェクトに 2 年間従事。2018 年 7 月より HERP に参画。スタートアップの採用コンサルティングに従事し、十数社の採用を支援する。その後、自社の資金調達業務に従事したのち、2019 年 6 月ころより現職。開発チームのリソース配分、プロダクトの QCD に責任を持っている。便宜上プロダクトマネージャーを名乗っているが、最近はピープルマネジメントやファシリテーション的な業務が多い。なにかに特化したスキルがなくジェネラリストタイプなので、全体がうまくいくために必要そうなことについては役割を制限せずにやっていくスタンスでやっている。最近の趣味は筋トレとゴルフ。
 
 ### [@tohayaaa](https://github.com/tohayaaa)
 

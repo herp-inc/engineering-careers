@@ -1,6 +1,6 @@
 # 株式会社 HERP エンジニア向け採用資料
 
-![We are hiring](https://img.shields.io/badge/status-hiring-brightgreen)
+![We are hiring](https://img.shields.io/badge/status-hiring-brightgreen) ![Industry: HRTech](https://img.shields.io/badge/industry-HRTech-orange) ![55 members](https://img.shields.io/badge/members-55-blue)
 
 ## イントロダクション
 
@@ -24,6 +24,8 @@ HERP で働くことに興味を持ってくださった方は、[目次](https:
 
 - [HERP について](./docs/company.md)
   - HERP という企業についてご紹介します
+- [カルチャー](./docs/culture.md)
+  - HERP や開発組織のカルチャーについてご紹介します
 - [技術スタック](./docs/technology-stack.md)
   - HERP でどのような技術が用いられているかをご紹介します
 - [開発体制・組織](./docs/organization.md)
@@ -34,10 +36,13 @@ HERP で働くことに興味を持ってくださった方は、[目次](https:
   - 現在募集中の職種を掲載しています
 - [選考フロー](./docs/interviews.md)
   - ご応募いただいた後の流れについてご説明します
+- [スポンサーシップ](./docs/sponsorship.md)
 
 ## リンク集
 
 - [HERP コーポレートサイト](https://herp.co.jp/)
+- [HERP Culture Deck](https://culture.herp.co.jp/)
+  - HERP という組織が目指したいミッション・プロダクトビジョン・ありたい組織像などを整理したドキュメントです
 - [HERP 採用ページ](https://careers.herp.co.jp/)
 - [HERP 求人一覧](https://herp.careers/v1/herpinc)
 - [HERP TechHub](https://tech-hub.herp.co.jp/)
