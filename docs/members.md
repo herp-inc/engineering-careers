@@ -16,6 +16,7 @@
   - [@daisukeendo111](#daisukeendo111)
   - [@taketo957](#taketo957)
   - [@numb_86](#numb_86)
+  - [@reimaru](#reimaru)
 - [エンジニア (インターン)](#エンジニア-インターン)
   - [@HikaruEgashira](#HikaruEgashira)
 - [エンジニア (業務委託)](#エンジニア-業務委託)
@@ -205,6 +206,15 @@ OCaml と Erlang が好き。
 エンジニア
 
 30 歳からプログラミングを始め、2021 年 10 月に HERP に入社。
+
+### [@reimaru](https://github.com/reimaruyama)
+
+![@reimaru](https://avatars.githubusercontent.com/u/39688400?s=96)
+
+エンジニア
+
+青山学院大学社会情報学部を卒業後、新卒で株式会社サーバーワークスに入社し AWS 運用自動化サービスの開発と運用を経験。
+型のある言語と人事採用ドメインに興味があり、2022 年 1 月に HERP に入社。
 
 ## エンジニア (インターン)
 
