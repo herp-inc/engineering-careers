@@ -36,6 +36,8 @@ HERP で働くことに興味を持ってくださった方は、[目次](https:
   - 現在募集中の職種を掲載しています
 - [選考フロー](./docs/interviews.md)
   - ご応募いただいた後の流れについてご説明します
+- [HERP Changelog](docs/CHANGELOG.md)
+  - 開発組織の動きや、ブログ記事の公開などをまとめています
 - [スポンサーシップ](./docs/sponsorship.md)
 
 ## リンク集
