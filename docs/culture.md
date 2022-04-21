@@ -1,7 +1,7 @@
 # カルチャー
 
 HERP の開発チームのカルチャーについて記載しています。
-HERP 社全体のバリューや組織体制についての詳細は [HERP Culture Deck](https://culture.herp.co.jp/1070e80e16024f5e8cd8f07c105aa98d) をご覧ください。
+HERP 社全体のバリューや組織体制についての詳細は [HERP Culture Deck](https://culture.herp.co.jp/) をご覧ください。
 
 - [尊重している価値観](#尊重している価値観)
 - [求める人物像](#求める人物像)
