@@ -8,6 +8,7 @@ HERP のビジネスは多数のオープンソースソフトウェア (OSS) �
 
 | 対象                                                                                                                       | 備考               |
 | -------------------------------------------------------------------------------------------------------------------------- | ------------------ |
+| [NixOS Foundation](https://nixos.org/community/#foundation)                                                                |                    |
 | [第 24 回プログラミングおよびプログラミング言語ワークショップ (PPL 2022)](https://jssst-ppl.org/workshop/2022/)            | ゴールドスポンサー |
 | [Haskell Foundation](https://haskell.foundation/)                                                                          | Functor level      |
 | [日本ソフトウェア科学会第 38 回大会 (JSSST 2021)](https://jssst2021.wordpress.com/)                                        | ブロンズスポンサー |
