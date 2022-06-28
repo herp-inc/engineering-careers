@@ -269,14 +269,6 @@ HERP メンバーの飲み会にいるランキング 3 位くらいには入る
 好きなお酒はホッピー、レモンサワー、ビール、ハイボール、日本酒。
 ホッピーは 1 瓶で 3 杯飲むというマイルールを掲げている。
 
-### [@KanadeNishizawa](https://github.com/KanadeNishizawa)
-
-![@KanadeNishizawa](https://avatars.githubusercontent.com/u/48097323?s=96)
-
-プロダクトデザイナーインターン
-
-筑波大学芸術専門学群所属。大学でメディアアートや造形学を学びつつ、趣味で Web サイトを作ったりアプリのデザインをしたりしている。かつては絵を描いていた(挫折した)。スパイものや SF の洋画をよく観る。名前の割に楽器は特に何も弾けない。居飛車党で角換わりが好き、右玉がトラウマ。
-
 ### [@sallllly0307](https://github.com/sallllly0307)
 
 ![@sallllly0307](https://avatars.githubusercontent.com/u/43309924?s=96)
