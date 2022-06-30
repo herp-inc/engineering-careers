@@ -12,7 +12,6 @@
   - [@ruicc](#ruicc)
   - [@ACJustPlay](#ACJustPlay)
   - [@kdxu](#kdxu)
-  - [@e_ntyo](#e_ntyo)
   - [@daisukeendo111](#daisukeendo111)
   - [@taketo957](#taketo957)
   - [@numb_86](#numb_86)
@@ -168,18 +167,6 @@ Hong Kong Baptist University から卒業した後、気付いたら日本に来
 お茶の水女子大学大学院人間文化創成科学研究科卒業後、諸々を経て 2020 年 8 月から HERP のお手伝いとして参加。
 HERP では Haskell / TypeScript を書いたり概念として偏在している。
 OCaml と Erlang が好き。
-
-### [@e_ntyo](https://github.com/entyo)
-
-![@e_ntyo](https://avatars.githubusercontent.com/u/6816182?s=96)
-
-エンジニア
-
-筑波大学情報学群知識情報・図書館学類卒業。学士（図書館情報学）。大学での研究領域は情報検索（information retrieval）で、具体的には、まさにこういった感じの自己紹介文章の作成を情報検索技術で支援するシステムについて研究していた。趣味はおもしろい（主観） Web サービスをつくることで、高等学校および大学在学中の五年間、はてなやエウレカなど 5 社以上の企業で継続的にインターン・アルバイトを経験し Web 開発の技術を学んだ。HERP には fp-ts を学ぶ目的でパートタイムとして入社し、2021 年 4 月よりフルタイム契約。
-
-📝 https://dev.to/e_ntyo
-
-📝 https://e-ntyo.hatenablog.com/
 
 ### [@daisukeendo111](https://github.com/daisukeendo111)
 
