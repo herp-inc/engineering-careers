@@ -1,6 +1,6 @@
 format:
-	npx prettier --write .
+	yarn prettier --write .
 
 lint:
-	npx prettier --check .
-	npx textlint README.md 'docs/**/*.md'
+	yarn prettier --check .
+	yarn textlint README.md 'docs/**/*.md'
