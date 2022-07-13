@@ -1,4 +1,4 @@
-{ pkgs ? import <nixpkgs> {} }:
+{ pkgs ? import nix/pkgs.nix {} }:
 
 let
   nodejs = pkgs.nodejs-slim-16_x;
@@ -7,6 +7,7 @@ in
 
 pkgs.mkShell {
   buildInputs = [
+    pkgs.niv
     nodejs
     yarn
   ];
