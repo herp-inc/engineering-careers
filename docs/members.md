@@ -16,6 +16,7 @@
   - [@taketo957](#taketo957)
   - [@numb_86](#numb_86)
   - [@reimaru](#reimaru)
+  - [@fumieval](#fumieval)
 - [エンジニア (インターン)](#エンジニア-インターン)
   - [@HikaruEgashira](#HikaruEgashira)
 - [エンジニア (業務委託)](#エンジニア-業務委託)
@@ -202,6 +203,10 @@ OCaml と Erlang が好き。
 
 青山学院大学社会情報学部を卒業後、新卒で株式会社サーバーワークスに入社し AWS 運用自動化サービスの開発と運用を経験。
 型のある言語と人事採用ドメインに興味があり、2022 年 1 月に HERP に入社。
+
+### [@fumieval](https://github.com/fumieval)
+
+10 歳からプログラミングを始め、Tsuru Capital のコンポーザーとしての Haskell/Rust によるソフトウェア開発を経て 2022 年 2 月に HERP へ入社。愛鳥家。
 
 ## エンジニア (インターン)
 
