@@ -1495,10 +1495,10 @@ textlint-rule-no-double-negative-ja@2.0.1:
   dependencies:
     kuromojin "^3.0.0"
 
-textlint-rule-no-doubled-conjunction@2.0.3:
-  version "2.0.3"
-  resolved "https://registry.yarnpkg.com/textlint-rule-no-doubled-conjunction/-/textlint-rule-no-doubled-conjunction-2.0.3.tgz#5291a5a52a9030ad9146392af347f0498e47a355"
-  integrity sha512-sM7hEndsiyzr0nxldGHwdXHmWwqNSCdtyYOyZ4rQYYhMR2gropvcQSJI6FULs0k74v1qRqC5UIsFqB+Sw4hzkA==
+textlint-rule-no-doubled-conjunction@2.0.4:
+  version "2.0.4"
+  resolved "https://registry.yarnpkg.com/textlint-rule-no-doubled-conjunction/-/textlint-rule-no-doubled-conjunction-2.0.4.tgz#ff36ce32afd71a05ed7655359e1721da2cb32c54"
+  integrity sha512-GUpZgJoEYk1EsqoE+0bcdln8ZbH6UDK9TWld3E2II+lGMw/0ALkoTNXhAsNK1ST/M7zYEX6a5qOCN68t2grDaA==
   dependencies:
     kuromojin "^3.0.0"
     sentence-splitter "^3.2.2"
