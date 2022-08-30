@@ -294,7 +294,7 @@ HERP メンバーの飲み会にいるランキング 3 位くらいには入る
 
 筑波大学情報学群在学中。中高在学時にグラフィックデザインを独学し、フロントエンドに興味を持つ。実装まで責任を持ってデザインに取り組める点に魅力を感じ、2020 年 11 月に HERP にインターンとしてジョイン。
 
-### [@yoshinorishimizu(https://github.com/yoshinorishimizu)
+### [@yoshinorishimizu](https://github.com/yoshinorishimizu)
 
 ![@yoshinorishimizu](https://avatars.githubusercontent.com/u/11487656?s=96)
 
