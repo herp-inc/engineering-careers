@@ -29,6 +29,7 @@
   - [@KanadeNishizawa](#KanadeNishizawa) (UI/UX デザイナーインターン)
   - [@sallllly0307](#sallllly0307) (UI/UX デザイナー)
   - [@mkobayashime](#mkobayashime) (UI/UX デザイナーインターン)
+  - [@yoshinorishimizu](#yoshinorishimizu) (デザイナー)
 
 ---
 
@@ -285,3 +286,9 @@ HERP メンバーの飲み会にいるランキング 3 位くらいには入る
 プロダクトデザイナーインターン
 
 筑波大学情報学群在学中。中高在学時にグラフィックデザインを独学し、フロントエンドに興味を持つ。実装まで責任を持ってデザインに取り組める点に魅力を感じ、2020 年 11 月に HERP にインターンとしてジョイン。
+
+### [@yoshinorishimizu](https://github.com/yoshinorishimizu)
+
+![@yoshinorishimizu](https://avatars.githubusercontent.com/u/11487656?s=96)
+
+家業工務店 → 給排水衛生設備士 → デザイナー。2022/03 HERP に入社。「デザインは、すべてです」
