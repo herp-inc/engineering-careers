@@ -17,7 +17,7 @@
   - [@numb_86](#numb_86)
   - [@reimaru](#reimaru)
   - [@fumieval](#fumieval)
-  - [@dacci](#dacci)
+  - [@daccizm](#daccizm)
 - [エンジニア (インターン)](#エンジニア-インターン)
   - [@HikaruEgashira](#HikaruEgashira)
 - [エンジニア (業務委託)](#エンジニア-業務委託)
@@ -209,9 +209,9 @@ OCaml と Erlang が好き。
 
 10 歳からプログラミングを始め、Tsuru Capital のコンポーザーとしての Haskell/Rust によるソフトウェア開発を経て 2022 年 2 月に HERP へ入社。愛鳥家。
 
-### [@dacci](https://github.com/daccizm)
+### [@daccizm](https://github.com/daccizm)
 
-![@dacci](https://avatars.githubusercontent.com/u/2311616?s=96)
+![@daccizm](https://avatars.githubusercontent.com/u/2311616?s=96)
 
 エンジニア
 
