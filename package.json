@@ -2,7 +2,7 @@
   "private": true,
   "devDependencies": {
     "@textlint-rule/textlint-rule-no-invalid-control-character": "2.0.0",
-    "husky": "8.0.2",
+    "husky": "8.0.3",
     "prettier": "2.8.1",
     "textlint": "12.4.0",
     "textlint-rule-max-ten": "4.0.3",
