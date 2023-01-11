@@ -4,7 +4,7 @@
     "@textlint-rule/textlint-rule-no-invalid-control-character": "2.0.0",
     "husky": "8.0.3",
     "prettier": "2.8.2",
-    "textlint": "12.4.0",
+    "textlint": "12.5.0",
     "textlint-rule-max-ten": "4.0.3",
     "textlint-rule-no-double-negative-ja": "2.0.1",
     "textlint-rule-no-doubled-conjunction": "2.0.4",
