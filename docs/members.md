@@ -11,7 +11,6 @@
   - [@shin-sakata](#shin-sakata)
   - [@ruicc](#ruicc)
   - [@ACJustPlay](#ACJustPlay)
-  - [@kdxu](#kdxu)
   - [@daisukeendo111](#daisukeendo111)
   - [@taketo957](#taketo957)
   - [@numb_86](#numb_86)
@@ -160,16 +159,6 @@ Altplus Inc, FIVE Inc, LINE corp でバックエンドを中心にだいたい�
 エンジニア
 
 Hong Kong Baptist University から卒業した後、気付いたら日本に来てしまってエンジニアになってしまった。大きい会社達小さい会社達を経験して HERP にたどり着いた。人生不思議。
-
-### [@kdxu](https://github.com/kdxu)
-
-![@kdxu](https://avatars.githubusercontent.com/u/3781952?s=96)
-
-エンジニア
-
-お茶の水女子大学大学院人間文化創成科学研究科卒業後、諸々を経て 2020 年 8 月から HERP のお手伝いとして参加。
-HERP では Haskell / TypeScript を書いたり概念として偏在している。
-OCaml と Erlang が好き。
 
 ### [@daisukeendo111](https://github.com/daisukeendo111)
 
