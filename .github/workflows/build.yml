@@ -11,7 +11,7 @@ jobs:
       - uses: reviewdog/action-setup@v1
 
       - name: Cache node_modules
-        uses: actions/cache@v3
+        uses: actions/cache@v4
         env:
           version: "20200909"
         with:
