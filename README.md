@@ -32,9 +32,16 @@
 - [HERP TechNote](https://scrapbox.io/herp-technote/)
   - 社内で用いられている技術に関して書かれた Scrapbox です
 - プロダクト
-  - [HERP Hire](https://herp.cloud/)
-    - スクラム採用を支える採用プラットフォーム「HERP Hire」のWebサイトです
-  - [HERP Nurture](https://lp.herp.cloud/nurture/)
-    - スクラム採用時代のタレント管理プラットフォーム「HERP Nurture」のWebサイトです
-  - [ジョブミル](https://www.jobmiru.cloud/)
-    - 取引先の採用管理システムから求人情報を自動で集約する人材紹介会社向け求人管理システム「ジョブミル」のWebサイトです
+  - 採用企業向け
+    - [HERP Hire](https://herp.cloud/)
+      - デジタル人材採用を加速する採用管理システム「HERP Hire」のWebサイトです
+    - [HERP Nurture](https://lp.herp.cloud/nurture/)
+      - デジタル人材採用を加速するタレントプールシステム「HERP Nurture」のWebサイトです
+    - [HERP Trust](https://www.herptrust.cloud/)
+      - オンライン完結型リファレンスチェックツール「HERP Trust」のWebサイトです
+  - 人材紹介企業向け
+    - [ジョブミル](https://www.jobmiru.cloud/)
+      - 取引先の採用管理システムから求人情報を自動で集約する人材紹介会社向け求人管理システム「ジョブミル」のWebサイトです
+  - 求職者向け
+    - [HERP Careers](https://herp.careers/careers/)
+      - スタートアップ・ベンチャー向け求人メディア「HERP Careers」のWebサイトです
