@@ -14,10 +14,10 @@
   dependencies:
     "@azu/format-text" "^1.0.1"
 
-"@babel/parser@^7.7.5":
-  version "7.24.6"
-  resolved "https://registry.yarnpkg.com/@babel/parser/-/parser-7.24.6.tgz#5e030f440c3c6c78d195528c3b688b101a365328"
-  integrity sha512-eNZXdfU35nJC2h24RznROuOpO94h6x8sg9ju0tT9biNtLZ2vuP8SduLqqV+/8+cebSLV9SJEAN5Z3zQbJG/M+Q==
+"@babel/parser@^7.23.9":
+  version "7.24.7"
+  resolved "https://registry.yarnpkg.com/@babel/parser/-/parser-7.24.7.tgz#9a5226f92f0c5c8ead550b750f5608e766c8ce85"
+  integrity sha512-9uUYRm6OqQrCqQdG1iCBwBPZgN8ciDBro2nIOFaiRz1/BCxaI7CNvQbDHvsArAC7Tw9Hda/B3U+6ui9u4HWXPw==
 
 "@textlint-rule/textlint-rule-no-invalid-control-character@2.0.0":
   version "2.0.0"
@@ -1884,7 +1884,7 @@ textlint-rule-helper@^1.1.2:
   dependencies:
     unist-util-visit "^1.1.0"
 
-textlint-rule-helper@^2.0.0, textlint-rule-helper@^2.1.1, textlint-rule-helper@^2.2.1, textlint-rule-helper@^2.3.0:
+textlint-rule-helper@^2.0.0, textlint-rule-helper@^2.1.1, textlint-rule-helper@^2.2.1, textlint-rule-helper@^2.3.0, textlint-rule-helper@^2.3.1:
   version "2.3.1"
   resolved "https://registry.yarnpkg.com/textlint-rule-helper/-/textlint-rule-helper-2.3.1.tgz#d2b82dbd46f25694fd315cbee46479bb545af87f"
   integrity sha512-b1bijvyiUmKinfFE5hkQMSXs3Ky8jyZ3Y6SOoTRJKV9HLL2LWUVFAUezO7z4FpAkVvYruDYWCwA5qWV8GmvyUw==
@@ -1937,15 +1937,14 @@ textlint-rule-no-mix-dearu-desumasu@5.0.0:
     textlint-rule-helper "^2.0.0"
     unist-util-visit "^3.0.0"
 
-textlint-rule-prh@5.3.0:
-  version "5.3.0"
-  resolved "https://registry.yarnpkg.com/textlint-rule-prh/-/textlint-rule-prh-5.3.0.tgz#c3a002e3e1b59751eb6b93dff81810caeb764a9f"
-  integrity sha512-gdod+lL1SWUDyXs1ICEwvQawaSshT3mvPGufBIjF2R5WFPdKQDMsiuzsjkLm+aF+9d97dA6pFsiyC8gSW7mSgg==
+textlint-rule-prh@6.0.0:
+  version "6.0.0"
+  resolved "https://registry.yarnpkg.com/textlint-rule-prh/-/textlint-rule-prh-6.0.0.tgz#2b917bcb80ed3f9c981abd0dc19e461951c55934"
+  integrity sha512-byU7eUyhabX2FKx3ShOktKkmKLG5dhR0ru+PGllKgafKKWXtzOIAhAaDlqMC5qU6b3Jaz5rKQcnroGVCEjcP1Q==
   dependencies:
-    "@babel/parser" "^7.7.5"
+    "@babel/parser" "^7.23.9"
     prh "^5.4.4"
-    textlint-rule-helper "^2.1.1"
-    untildify "^3.0.3"
+    textlint-rule-helper "^2.3.1"
 
 textlint-rule-spellcheck-tech-word@5.0.0:
   version "5.0.0"
@@ -2193,11 +2192,6 @@ unist-util-visit@^3.0.0:
     "@types/unist" "^2.0.0"
     unist-util-is "^5.0.0"
     unist-util-visit-parents "^4.0.0"
-
-untildify@^3.0.3:
-  version "3.0.3"
-  resolved "https://registry.yarnpkg.com/untildify/-/untildify-3.0.3.tgz#1e7b42b140bcfd922b22e70ca1265bfe3634c7c9"
-  integrity sha512-iSk/J8efr8uPT/Z4eSUywnqyrQU7DSdMfdqK4iWEaUVVmcP5JcnpRqmVMwcwcnmI1ATFNgC5V90u09tBynNFKA==
 
 uri-js@^4.4.1:
   version "4.4.1"
