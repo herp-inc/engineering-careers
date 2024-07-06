@@ -1,17 +1,17 @@
 # 技術スタック
 
-HERPでどのような技術が用いられているかをご紹介します。
+HERP でどのような技術が用いられているかをご紹介します。
 
-開発チームのメンバーによるブログ記事をまとめた[HERP TechHub](https://tech-hub.herp.co.jp/)や、社内で用いられている技術に関して書かれたScrapboxである[HERP TechNote](https://scrapbox.io/herp-technote/)も合わせてご覧ください。
+開発チームのメンバーによるブログ記事をまとめた[HERP TechHub](https://tech-hub.herp.co.jp/)や、社内で用いられている技術に関して書かれた Scrapbox である[HERP TechNote](https://scrapbox.io/herp-technote/)も合わせてご覧ください。
 
-- [Webフロントエンド](#Webフロントエンド)
+- [Web フロントエンド](#Webフロントエンド)
 - [バックエンド](#バックエンド)
 - [DevOps / SRE](#DevOps--SRE)
 - [その他](#その他)
 
 ---
 
-## Webフロントエンド
+## Web フロントエンド
 
 - [Cycle.js](https://tech-hub.herp.co.jp/tags/cyclejs/1.html)
   - テナント向けアプリケーションで利用しています
@@ -38,12 +38,12 @@ HERPでどのような技術が用いられているかをご紹介します。
 
 ## DevOps / SRE
 
-HERPではクラウドプロバイダーとして[Amazon Web Services (AWS)](https://aws.amazon.com/)を採用し、[Amazon Elastic Kubernetes Service (EKS)](https://aws.amazon.com/eks/)によって構築された[Kubernetes](https://kubernetes.io/)クラスタを運用しています。
+HERP ではクラウドプロバイダーとして[Amazon Web Services (AWS)](https://aws.amazon.com/)を採用し、[Amazon Elastic Kubernetes Service (EKS)](https://aws.amazon.com/eks/)によって構築された[Kubernetes](https://kubernetes.io/)クラスタを運用しています。
 また、クラスタ上では[Istio](https://istio.io/)を用いたサービスメッシュを構築しています。
 
-GitOpsを用いた継続的デリバリを実現するため、上記のクラスタ上で[Argo CD](https://argoproj.github.io/cd/)を運用しています。
+GitOps を用いた継続的デリバリを実現するため、上記のクラスタ上で[Argo CD](https://argoproj.github.io/cd/)を運用しています。
 
-AWS上などに存在するリソースは[Terraform](https://www.terraform.io/)を用いてプロビジョニングを行っています。
+AWS 上などに存在するリソースは[Terraform](https://www.terraform.io/)を用いてプロビジョニングを行っています。
 
 監視・ロギング・メトリクスには[Datadog](https://www.datadoghq.com/)を利用しています。
 

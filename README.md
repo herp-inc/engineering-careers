@@ -1,19 +1,19 @@
-# 株式会社HERPエンジニア向け採用資料
+# 株式会社 HERP エンジニア向け採用資料
 
 ![We are hiring](https://img.shields.io/badge/status-hiring-brightgreen) ![Industry: HRTech](https://img.shields.io/badge/industry-HRTech-orange) ![54 members](https://img.shields.io/badge/members-54-blue)
 
 ## 目次
 
-- [HERPについて](./docs/company.md)
-  - HERPという企業についてご紹介します
+- [HERP について](./docs/company.md)
+  - HERP という企業についてご紹介します
 - [カルチャー](./docs/culture.md)
-  - HERPや開発組織のカルチャーについてご紹介します
+  - HERP や開発組織のカルチャーについてご紹介します
 - [技術スタック](./docs/technology-stack.md)
   - HERP でどのような技術が用いられているかをご紹介します
 - [開発体制・組織](./docs/organization.md)
-  - HERPでどのように開発が行われているかをご紹介します
+  - HERP でどのように開発が行われているかをご紹介します
 - [メンバー紹介](./docs/members.md)
-  - HERPの開発チームのメンバーをご紹介します
+  - HERP の開発チームのメンバーをご紹介します
 - [募集職種](./docs/jobs.md)
   - 現在募集中の職種を掲載しています
 - [選考フロー](./docs/interviews.md)
@@ -34,14 +34,14 @@
 - プロダクト
   - 採用企業向け
     - [HERP Hire](https://herp.cloud/)
-      - デジタル人材採用を加速する採用管理システム「HERP Hire」のWebサイトです
+      - デジタル人材採用を加速する採用管理システム「HERP Hire」の Web サイトです
     - [HERP Nurture](https://lp.herp.cloud/nurture/)
-      - デジタル人材採用を加速するタレントプールシステム「HERP Nurture」のWebサイトです
+      - デジタル人材採用を加速するタレントプールシステム「HERP Nurture」の Web サイトです
     - [HERP Trust](https://www.herptrust.cloud/)
-      - オンライン完結型リファレンスチェックツール「HERP Trust」のWebサイトです
+      - オンライン完結型リファレンスチェックツール「HERP Trust」の Web サイトです
   - 人材紹介企業向け
     - [ジョブミル](https://www.jobmiru.cloud/)
-      - 取引先の採用管理システムから求人情報を自動で集約する人材紹介会社向け求人管理システム「ジョブミル」のWebサイトです
+      - 取引先の採用管理システムから求人情報を自動で集約する人材紹介会社向け求人管理システム「ジョブミル」の Web サイトです
   - 求職者向け
     - [HERP Careers](https://herp.careers/careers/)
-      - スタートアップ・ベンチャー向け求人メディア「HERP Careers」のWebサイトです
+      - スタートアップ・ベンチャー向け求人メディア「HERP Careers」の Web サイトです
