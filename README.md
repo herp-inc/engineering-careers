@@ -14,7 +14,7 @@
   - HERPでどのように開発が行われているかをご紹介します
 - [メンバー紹介](./docs/members.md)
   - HERPの開発チームのメンバーをご紹介します
-- [募集職種](./docs/jobs.md)
+- [募集職種](https://herp.careers/v1/herpinc/requisition-groups/84aec4e1-19c7-4268-b62a-027470d1ebd9)
   - 現在募集中の職種を掲載しています
 - [選考フロー](./docs/interviews.md)
   - ご応募いただいた後の流れについてご説明します
