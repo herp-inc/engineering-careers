@@ -2,41 +2,47 @@
 
 HERPでどのような技術が用いられているかをご紹介します。
 
-開発チームのメンバーによるブログ記事をまとめた[HERP TechHub](https://tech-hub.herp.co.jp/)や、社内で用いられている技術に関して書かれたScrapboxである[HERP TechNote](https://scrapbox.io/herp-technote/)も合わせてご覧ください。
+開発チームのメンバーによるブログ記事をまとめた[HERP TechHub](https://tech-hub.herp.co.jp/)も合わせてご覧ください。
 
 - [Webフロントエンド](#Webフロントエンド)
 - [バックエンド](#バックエンド)
-- [DevOps / SRE](#DevOps--SRE)
-- [その他](#その他)
+- [プラットフォーム](#プラットフォーム)
+- [データ基盤](#データ基盤)
+- [開発環境](#開発環境)
 
 ---
 
 ## Webフロントエンド
 
-- [Cycle.js](https://tech-hub.herp.co.jp/tags/cyclejs/1.html)
-  - テナント向けアプリケーションで利用しています
-- fp-ts
-- GraphQL
-- Next.js
-  - 認証を要しない、外部に公開されるアプリケーションで利用しています
 - [TypeScript](https://tech-hub.herp.co.jp/tags/typescript/1.html)
-- Webpack
+- [Cycle.js](https://tech-hub.herp.co.jp/tags/cyclejs/1.html)
+  - HERP Hire、ジョブミルで利用しています
+- [React](https://ja.react.dev/)
+- [GraphQL](https://graphql.org/)
+- [Next.js](https://nextjs.org/)
+  - [HERP Careers](https://herp.careers/)で利用しています
+- webpack
 
 ## バックエンド
 
-- fp-ts
-- [Haskell](https://tech-hub.herp.co.jp/tags/haskell/1.html)
-- Koa.js
+- [TypeScript](https://tech-hub.herp.co.jp/tags/typescript/1.html)
+  - [Koa](https://koajs.com/)
+  - [hono](https://hono.dev/)
+    - サービス間通信やAPI基盤で利用しています
+  - [Effect](https://effect.website/)
+  - [Prisma](https://www.prisma.io/)
+  - [zod](https://zod.dev/)
 - MySQL
-- Node.js
+- PostgreSQL
 - Puppeteer
-- Servant
-- Swagger
-- Yesod
+- [Playwright](https://playwright.dev/)
+  - E2Eテストで利用しています
+- [Haskell](https://tech-hub.herp.co.jp/tags/haskell/1.html)
+  - Yesod
 - gRPC
 - Protocol Buffers
 
-## DevOps / SRE
+## プラットフォーム
 
 HERPではクラウドプロバイダーとして[Amazon Web Services (AWS)](https://aws.amazon.com/)を採用し、[Amazon Elastic Kubernetes Service (EKS)](https://aws.amazon.com/eks/)によって構築された[Kubernetes](https://kubernetes.io/)クラスタを運用しています。
 また、クラスタ上では[Istio](https://istio.io/)を用いたサービスメッシュを構築しています。
@@ -47,10 +53,14 @@ AWS上などに存在するリソースは[Terraform](https://www.terraform.io/)
 
 監視・ロギング・メトリクスには[Datadog](https://www.datadoghq.com/)を利用しています。
 
-## その他
+## データ基盤
 
-- Figma
-- Docker
-- GitHub
+- [dbt](https://www.getdbt.com/)を用いてデータパイプラインを構築し、[BigQuery](https://cloud.google.com/bigquery)をデータウェアハウスとして運用しています。
+- ビジネスサイド向けに[Metabase](https://www.metabase.com/)を用いてデータ可視化を行っています。
+- [trocco](https://trocco.io/)を用いて、アプリケーションのDBからデータレイクにデータを転送しています。
+
+## 開発環境
+
+- GitHub Enterprise
+- GitHub Copilot
 - [Nix](https://tech-hub.herp.co.jp/tags/nix/1.html)
-- YouTrack
