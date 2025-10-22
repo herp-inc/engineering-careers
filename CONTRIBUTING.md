@@ -3,7 +3,7 @@
 この Repository にコントリビューションする方法についてのガイドです。
 
 ※株式会社 HERP にコントリビューションする方法についてのガイドではありません。
-株式会社 HERP にコントリビューションしたい方は[こちら](./docs/jobs.md)からどうぞ。
+株式会社 HERP にコントリビューションしたい方は[こちら](https://culture.herp.co.jp/engineer)からどうぞ。
 
 ## Requirements
 
